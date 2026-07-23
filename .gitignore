@@ -1,0 +1,15 @@
+/target/
+/.makepkg/
+/*.pkg.tar.*
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+.idea/
+.vscode/
+*.swp
+
+
+# Added by cargo
+
+/target
